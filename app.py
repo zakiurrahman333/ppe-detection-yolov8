@@ -10,7 +10,7 @@ import pygame
 import os
 
 # Load custom YOLOv8 PPE model
-model = YOLO('model/yolo.pt')  # <-- Replace with your model path
+model = YOLO("yolov8n.pt")  # <-- Replace with your model path
 
 # Sidebar Controls
 st.sidebar.title("⚙️ Control Panel")

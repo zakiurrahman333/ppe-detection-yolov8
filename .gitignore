@@ -12,4 +12,4 @@ runs/
 datasets/
 
 # Model weights
-*.pt
+# *.pt
